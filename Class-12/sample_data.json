@@ -1,0 +1,167 @@
+[
+  {
+    "employee_id":101,
+    "name":"Ayesha Khan",
+    "department":"IT",
+    "position":"Software Engineer",
+    "salary":85000,
+    "years_experience":5,
+    "hire_date":"2019-01-15",
+    "performance_score":4.5,
+    "has_certification":true
+  },
+  {
+    "employee_id":102,
+    "name":"Rashed Ahmed",
+    "department":"HR",
+    "position":"HR Manager",
+    "salary":72000,
+    "years_experience":8,
+    "hire_date":"2016-03-22",
+    "performance_score":4.2,
+    "has_certification":true
+  },
+  {
+    "employee_id":103,
+    "name":"Fatima Begum",
+    "department":"Research",
+    "position":"Research Analyst",
+    "salary":68000,
+    "years_experience":3,
+    "hire_date":"2021-06-10",
+    "performance_score":4.7,
+    "has_certification":false
+  },
+  {
+    "employee_id":104,
+    "name":"Karim Hassan",
+    "department":"IT",
+    "position":"Data Scientist",
+    "salary":95000,
+    "years_experience":6,
+    "hire_date":"2018-09-05",
+    "performance_score":4.8,
+    "has_certification":true
+  },
+  {
+    "employee_id":105,
+    "name":"Nasima Akter",
+    "department":"Education",
+    "position":"Senior Lecturer",
+    "salary":75000,
+    "years_experience":12,
+    "hire_date":"2012-01-20",
+    "performance_score":4.4,
+    "has_certification":true
+  },
+  {
+    "employee_id":106,
+    "name":"Fahim Hossain",
+    "department":"IT",
+    "position":"IT Support",
+    "salary":55000,
+    "years_experience":2,
+    "hire_date":"2022-11-01",
+    "performance_score":3.9,
+    "has_certification":false
+  },
+  {
+    "employee_id":107,
+    "name":"Shafia Rahman",
+    "department":"Research",
+    "position":"Principal Investigator",
+    "salary":110000,
+    "years_experience":15,
+    "hire_date":"2008-04-15",
+    "performance_score":4.9,
+    "has_certification":true
+  },
+  {
+    "employee_id":108,
+    "name":"Tarek Mahmud",
+    "department":"Education",
+    "position":"Assistant Professor",
+    "salary":65000,
+    "years_experience":4,
+    "hire_date":"2020-08-30",
+    "performance_score":4.3,
+    "has_certification":false
+  },
+  {
+    "employee_id":109,
+    "name":"Amina Sultana",
+    "department":"IT",
+    "position":"DevOps Engineer",
+    "salary":92000,
+    "years_experience":7,
+    "hire_date":"2017-05-12",
+    "performance_score":4.6,
+    "has_certification":true
+  },
+  {
+    "employee_id":110,
+    "name":"Arifur Rahman",
+    "department":"HR",
+    "position":"Recruiter",
+    "salary":60000,
+    "years_experience":3,
+    "hire_date":"2021-02-14",
+    "performance_score":4.0,
+    "has_certification":false
+  },
+  {
+    "employee_id":111,
+    "name":"Marzina Akhter",
+    "department":"Research",
+    "position":"Research Assistant",
+    "salary":45000,
+    "years_experience":1,
+    "hire_date":"2023-07-01",
+    "performance_score":4.2,
+    "has_certification":false
+  },
+  {
+    "employee_id":112,
+    "name":"Samir Hossain",
+    "department":"IT",
+    "position":"Tech Lead",
+    "salary":98000,
+    "years_experience":9,
+    "hire_date":"2015-10-08",
+    "performance_score":4.7,
+    "has_certification":true
+  },
+  {
+    "employee_id":113,
+    "name":"Fatema Yousuf",
+    "department":"Education",
+    "position":"Course Coordinator",
+    "salary":58000,
+    "years_experience":2,
+    "hire_date":"2022-09-18",
+    "performance_score":3.8,
+    "has_certification":false
+  },
+  {
+    "employee_id":114,
+    "name":"Rafiq Khan",
+    "department":"Research",
+    "position":"Post-Doc Researcher",
+    "salary":70000,
+    "years_experience":2,
+    "hire_date":"2022-01-25",
+    "performance_score":4.5,
+    "has_certification":false
+  },
+  {
+    "employee_id":115,
+    "name":"Rumana Chowdhury",
+    "department":"IT",
+    "position":"Software Architect",
+    "salary":105000,
+    "years_experience":11,
+    "hire_date":"2013-03-01",
+    "performance_score":4.8,
+    "has_certification":true
+  }
+]

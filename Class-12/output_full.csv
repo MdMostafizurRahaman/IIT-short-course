@@ -1,0 +1,16 @@
+employee_id,name,department,position,salary,years_experience,hire_date,performance_score,has_certification,annual_bonus,role_description
+101,Ayesha Khan,IT,Software Engineer,85000,5,2019-01-15,4.5,True,8500.0,Ayesha Khan - Software Engineer
+102,Rashed Ahmed,HR,HR Manager,72000,8,2016-03-22,4.2,True,7200.0,Rashed Ahmed - HR Manager
+103,Fatima Begum,Research,Research Analyst,68000,3,2021-06-10,4.7,False,6800.0,Fatima Begum - Research Analyst
+104,Karim Hassan,IT,Data Scientist,95000,6,2018-09-05,4.8,True,9500.0,Karim Hassan - Data Scientist
+105,Nasima Akter,Education,Senior Lecturer,75000,12,2012-01-20,4.4,True,7500.0,Nasima Akter - Senior Lecturer
+106,Fahim Hossain,IT,IT Support,55000,2,2022-11-01,3.9,False,5500.0,Fahim Hossain - IT Support
+107,Shafia Rahman,Research,Principal Investigator,110000,15,2008-04-15,4.9,True,11000.0,Shafia Rahman - Principal Investigator
+108,Tarek Mahmud,Education,Assistant Professor,65000,4,2020-08-30,4.3,False,6500.0,Tarek Mahmud - Assistant Professor
+109,Amina Sultana,IT,DevOps Engineer,92000,7,2017-05-12,4.6,True,9200.0,Amina Sultana - DevOps Engineer
+110,Arifur Rahman,HR,Recruiter,60000,3,2021-02-14,4.0,False,6000.0,Arifur Rahman - Recruiter
+111,Marzina Akhter,Research,Research Assistant,45000,1,2023-07-01,4.2,False,4500.0,Marzina Akhter - Research Assistant
+112,Samir Hossain,IT,Tech Lead,98000,9,2015-10-08,4.7,True,9800.0,Samir Hossain - Tech Lead
+113,Fatema Yousuf,Education,Course Coordinator,58000,2,2022-09-18,3.8,False,5800.0,Fatema Yousuf - Course Coordinator
+114,Rafiq Khan,Research,Post-Doc Researcher,70000,2,2022-01-25,4.5,False,7000.0,Rafiq Khan - Post-Doc Researcher
+115,Rumana Chowdhury,IT,Software Architect,105000,11,2013-03-01,4.8,True,10500.0,Rumana Chowdhury - Software Architect

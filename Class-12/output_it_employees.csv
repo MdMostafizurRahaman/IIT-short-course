@@ -1,0 +1,7 @@
+employee_id,name,department,position,salary,years_experience,hire_date,performance_score,has_certification,annual_bonus,role_description
+101,Ayesha Khan,IT,Software Engineer,85000,5,2019-01-15,4.5,True,8500.0,Ayesha Khan - Software Engineer
+104,Karim Hassan,IT,Data Scientist,95000,6,2018-09-05,4.8,True,9500.0,Karim Hassan - Data Scientist
+106,Fahim Hossain,IT,IT Support,55000,2,2022-11-01,3.9,False,5500.0,Fahim Hossain - IT Support
+109,Amina Sultana,IT,DevOps Engineer,92000,7,2017-05-12,4.6,True,9200.0,Amina Sultana - DevOps Engineer
+112,Samir Hossain,IT,Tech Lead,98000,9,2015-10-08,4.7,True,9800.0,Samir Hossain - Tech Lead
+115,Rumana Chowdhury,IT,Software Architect,105000,11,2013-03-01,4.8,True,10500.0,Rumana Chowdhury - Software Architect
