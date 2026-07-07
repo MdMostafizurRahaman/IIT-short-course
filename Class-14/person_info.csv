@@ -1,0 +1,72 @@
+ID,Age,Gender,Height,Weight,Income,Education,Employment,Health Condition,Score
+1,25,M,175,70.0,50000.0,Bachelor,Employed,Good,78.0
+2,32,F,(160),,60000.0,Master,Unemployed,Excellent,92.0
+3,45,M,,85.0,75000.0,PhD,Employed,,64.0
+4,28,F,Tall,500.0,45000.0,Bachelor,Employed,Good,80.0
+5,38,M,180,95.0,80000.0,High School,Self-employed,Good,72.0
+6,38,M,180,95.0,80000.0,High School,Self-employed,Good,72.0
+7,50,M,175,80.0,90000.0,Bachelor,Retired,Excellent,95.0
+8,33,F,,60.0,55000.0,Master,Employed,,68.0
+9,41,M,178,88.0,70000.0,PhD,Unemployed,Good,76.0
+10,27,F,163,52.0,40000.0,Bachelor,Employed,Excellent,90.0
+11,29,M,170,75.0,65000.0,High School,Employed,Good,75.0
+12,35,F,168,58.0,,Master,Unemployed,Excellent,86.0
+13,48,M,182,92.0,82000.0,Bachelor,Self-employed,Good,77.0
+14,24,F,157,300.0,32000.0,High School,Student,Excellent,89.0
+15,39,M,176,85.0,75000.0,PhD,Employed,,62.0
+16,31,F,165,57.0,42000.0,Bachelor,Employed,Good,79.0
+17,42,M,177,,71000.0,Master,Unemployed,Good,74.0
+18,26,F,159,45.0,35000.0,Bachelor,Employed,Excellent,91.0
+19,34,M,181,90.0,78000.0,High School,Employed,Excellent,94.0
+20,30,F,161,53.0,43000.0,Master,Self-employed,Good,73.0
+21,47,M,,88.0,80000.0,PhD,Retired,Good,70.0
+22,23,F,154,47.0,29000.0,High School,Student,Excellent,87.0
+23,37,M,179,82.0,87000.0,Bachelor,Unemployed,,65.0
+24,44,F,166,60.0,48000.0,Master,Employed,Excellent,93.0
+25,29,M,172,-15.0,67000.0,PhD,Employed,Good,71.0
+26,36,F,164,55.0,40000.0,High School,Unemployed,Good,76.0
+27,49,M,183,94.0,89000.0,Bachelor,Self-employed,Excellent,85.0
+28,25,F,158,48.0,31000.0,Bachelor,Student,Good,77.0
+29,40,M,174,87.0,73000.0,Master,Employed,Good,72.0
+30,21,F,156,49.0,32000.0,High School,Student,Excellent,88.0
+31,51,M,178,96.0,91000.0,PhD,Retired,Good,74.0
+32,34,F,160,54.0,41000.0,Master,Employed,Excellent,89.0
+33,46,M,180,89.0,82000.0,Bachelor,Unemployed,Good,78.0
+34,28,F,163,56.0,43000.0,PhD,Employed,Excellent,92.0
+35,22,M,175,72.0,58000.0,Bachelor,Student,Good,79.0
+36,30,F,159,50.0,34000.0,Master,Employed,Excellent,90.0
+37,43,M,181,91.0,79000.0,High School,Employed,Good,76.0
+38,27,F,162,55.0,41000.0,Bachelor,Unemployed,Excellent,87.0
+39,38,M,177,84.0,76000.0,PhD,Self-employed,Good,73.0
+40,24,F,158,46.0,33000.0,High School,Student,Excellent,91.0
+41,31,M,173,79.0,69000.0,Master,Employed,Good,75.0
+42,35,F,167,59.0,47000.0,Bachelor,Unemployed,Excellent,93.0
+43,50,M,185,98.0,93000.0,PhD,Retired,Good,72.0
+44,26,F,160,52.0,39000.0,High School,Employed,Excellent,88.0
+45,39,M,178,86.0,80000.0,Master,Employed,Good,71.0
+46,33,F,161,53.0,42000.0,Bachelor,Unemployed,Excellent,89.0
+47,45,M,182,93.0,85000.0,PhD,Self-employed,Good,77.0
+48,29,F,155,48.0,31000.0,High School,Employed,Excellent,90.0
+49,41,M,176,83.0,78000.0,Master,Unemployed,Good,74.0
+50,23,F,157,51.0,35000.0,Bachelor,Student,Excellent,92.0
+51,32,M,174,80.0,72000.0,PhD,Employed,Good,76.0
+52,36,F,166,57.0,44000.0,High School,Unemployed,Excellent,87.0
+53,48,M,183,92.0,84000.0,Bachelor,Self-employed,Good,70.0
+54,27,F,159,49.0,33000.0,Master,Employed,Excellent,91.0
+55,37,M,180,88.0,77000.0,PhD,Employed,Good,75.0
+56,25,F,162,54.0,40000.0,High School,Unemployed,Excellent,89.0
+57,49,M,178,85.0,79000.0,Bachelor,Retired,Good,73.0
+58,21,F,156,46.0,32000.0,High School,Student,Excellent,90.0
+59,44,M,177,90.0,82000.0,Master,Employed,Good,78.0
+60,30,F,161,52.0,41000.0,Bachelor,Employed,Excellent,92.0
+61,40,M,175,86.0,77000.0,PhD,Unemployed,Good,75.0
+62,22,F,158,50.0,34000.0,High School,Student,Excellent,91.0
+63,46,M,180,93.0,87000.0,Bachelor,Self-employed,Good,74.0
+64,29,F,163,55.0,42000.0,Master,Employed,Excellent,88.0
+65,35,M,178,84.0,80000.0,PhD,Employed,Good,71.0
+66,23,F,154,47.0,29000.0,High School,Unemployed,Excellent,87.0
+67,41,M,182,91.0,83000.0,Bachelor,Retired,Good,76.0
+68,28,F,157,51.0,36000.0,PhD,Employed,Excellent,90.0
+69,33,M,176,82.0,75000.0,High School,Employed,Good,79.0
+70,50,F,160,53.0,43000.0,Bachelor,Retired,Excellent,94.0
+71,39,,,,,,,,
